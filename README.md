@@ -1,4 +1,4 @@
-# Selamat Datang di Proyek Kami! 🌟
+# DIKASIH BINTANG BANG KLO NGEPULL follow juga hehe! 🌟
 
 Halo, para pengembang dan pencinta teknologi! Kami sangat senang menyambut Anda di repositori ini. Proyek ini bertujuan untuk [tujuan proyek, misalnya "membantu Anda dalam membangun aplikasi web yang lebih efisien"].
 
